@@ -4,7 +4,7 @@ Each session is organized along two parallel dimensions: a substantive topical f
 
 Spring 2026, Prof De Liu
 
-## Jan 21 - [What Is Economics of IS](https://canvas.umn.edu/courses/544805/files/58501993/download)
+## Jan 21 - [What Is Economics of IS](https://canvas.umn.edu/courses/544805/files/59066790?wrap=1)
 
 **Topic**: Defining Econ of IS in the platform + AI era
 
@@ -13,7 +13,7 @@ Spring 2026, Prof De Liu
 - Brynjolfsson, Erik, Chong Wang, and Xiaoquan Zhang. “The Economics of It And Digitization: Eight Questions For Research.” MIS Quarterly 45, no. 1 (2021): 473–77.
 
 
-## Jan 28 - [Business Value of IT, Data, & AI](https://canvas.umn.edu/courses/544805/files/59066818/download)
+## Jan 28 - [Business Value of IT, Data, & AI](https://canvas.umn.edu/courses/544805/files/59066818/?wrap=1)
 
 **Topic**: Value of IT capital, data, analytics, and AI capabilities
 **Method focus**: Firm-level panel data, fixed-effects
@@ -25,7 +25,7 @@ Spring 2026, Prof De Liu
 *Additional Readings*
 - Erik Brynjolfsson and Lorin Hitt (1996). Paradox Lost? Firm-Level Evidence on the Returns to Information Systems Spending, Management Science, 42:4, 541-558
 
-## Feb 4 - Content Moderation & Social Media Economics
+## Feb 4 - [Content Moderation & Social Media Economics](https://canvas.umn.edu/courses/544805/files/59326733?wrap=1)
 
 **Method focus**: Policy shocks, DiD, quasi-experiments
 

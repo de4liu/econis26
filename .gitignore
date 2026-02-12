@@ -1,1 +1,7 @@
 *.gdoc
+
+# Scraper output (JSONL files)
+scraper/out/
+# Scraper markdown output (JSONL-to-MD conversion)
+scraper/out_md/
+venv/
