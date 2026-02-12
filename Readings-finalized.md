@@ -4,7 +4,8 @@ Each session is organized along two parallel dimensions: a substantive topical f
 
 Spring 2026, Prof De Liu
 
-## Jan 21 - [What Is Economics of IS](https://canvas.umn.edu/courses/544805/files/58501993/download)
+## Jan 21 - [What Is Economics of IS](https://canvas.umn.edu/courses/544805/files/58501993/download?download_frd=1)
+
 
 **Topic**: Defining Econ of IS in the platform + AI era
 
@@ -13,9 +14,10 @@ Spring 2026, Prof De Liu
 - Brynjolfsson, Erik, Chong Wang, and Xiaoquan Zhang. “The Economics of It And Digitization: Eight Questions For Research.” MIS Quarterly 45, no. 1 (2021): 473–77.
 
 
-## Jan 28 - [Business Value of IT, Data, & AI](https://canvas.umn.edu/courses/544805/files/59066818/download)
+## Jan 28 - [Business Value of IT, Data, & AI](https://canvas.umn.edu/courses/544805/files/59066818/download?download_frd=1)
 
 **Topic**: Value of IT capital, data, analytics, and AI capabilities
+
 **Method focus**: Firm-level panel data, fixed-effects
 
 - Sanjeev Dewan and Chung-ki Min (1997). The Substitution of Information Technology for Other Factors of Production: A Firm Level Analysis, Management Science, 1997 43:12, 1660-1675. 
@@ -25,7 +27,7 @@ Spring 2026, Prof De Liu
 *Additional Readings*
 - Erik Brynjolfsson and Lorin Hitt (1996). Paradox Lost? Firm-Level Evidence on the Returns to Information Systems Spending, Management Science, 42:4, 541-558
 
-## Feb 4 - [Content Moderation & Social Media Economics](https://canvas.umn.edu/courses/544805/files/59326733?wrap=1)
+## Feb 4 - [Content Moderation & Social Media Economics](https://canvas.umn.edu/courses/544805/files/59326733?download?download_frd=1)
 
 **Method focus**: Policy shocks, DiD, quasi-experiments
 
@@ -34,9 +36,10 @@ Spring 2026, Prof De Liu
 - Chen, Yanzhen, Huaxia Rui, and Andrew. B. Whinston. “Tweet to the Top? Social Media Personal Branding and Career Outcomes.” MIS Quarterly 45, no. 2 (2021): 499–534. - https://doi.org/10.25300/MISQ/2021/14617.
 
 
-## Feb 11 - [Live Streaming & Creator Economy](https://canvas.umn.edu/courses/544805/files/59326732?wrap=1)
+## Feb 11 - [Live Streaming & Creator Economy](https://canvas.umn.edu/courses/544805/files/59326732?download?download_frd=1)
 
 **Topic**: Real-time interaction, motivation, creative economy ecosystem
+
 **Method focus**: Field experiments
 
 - Bhargava, Hemant K. “The Creator Economy: Managing Ecosystem Supply, Revenue Sharing, and Platform Design.” Management Science 68, no. 7 (2022): 5233–51. https://doi.org/10.1287/mnsc.2021.4126.
@@ -44,8 +47,10 @@ Spring 2026, Prof De Liu
 - Wang, Lingli, Ni Huang, Yumei He, et al. “Artificial Intelligence (AI) Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform.” Information Systems Research 36, no. 4 (2025): 2358–74. https://doi.org/10.1287/isre.2023.0103.
 
 
-## Feb 18 - Economics of Online Labor Markets
+## Feb 18 - [Economics of Online Labor Markets](https://canvas.umn.edu/courses/544805/files/59757065?download?download_frd=1)
+
 **Topic**: Contracting, Information Asymmetry, Moral Hazard, Incentive Alignment, and Market Design on Platforms
+
 **Method focus**: DiD, panel data identification, empirical contract theory
 
 - Gu, Grace, and Feng Zhu. “Trust and Disintermediation: Evidence from an Online Freelance Marketplace.” Management Science 67, no. 2 (2021): 794–807. https://doi.org/10.1287/mnsc.2020.3583.
@@ -56,9 +61,10 @@ Spring 2026, Prof De Liu
 Zhang, Chen, Raghunathan (2022), Management Science
 Game-theoretic model of wage schemes and price competition  -->
 
-## Feb 25 - AI–Human Complementarity
+## Feb 25 - [AI–Human Complementarity](https://canvas.umn.edu/courses/544805/files/59757064?download?download_frd=1)
 
 **Topic**: AI, Task-Based Production, and Organizational Design, Economics of Human–Machine Production
+
 **Method focus**: Theory, experiments, and conceptual framing.
 
 - Daron Acemoglu and Pascual Restrepo. “Artificial Intelligence,  Automation, and Work.” In The Economics of Artificial Intelligence: An Agenda. University of Chicago Press, 2019.
@@ -66,9 +72,10 @@ Game-theoretic model of wage schemes and price competition  -->
 - Berente, Nicholas, Bin Gu, Jan Recker, and Radhika Santhanam. “Managing Artificial Intelligence.” MIS Quarterly 45, no. 3 (2021): 1433–50. https://doi.org/10.25300/MISQ/2021/16274.
 
 
-## Mar 4 - Introduction to Analytics Modeling in IS
+## Mar 4 - [Introduction to Analytics Modeling in IS](https://canvas.umn.edu/courses/544805/files/59757063?download?download_frd=1)
 
 **Topic**: pricing, modeling digital goods, information asymmetry
+
 **Method focus**: static games, equilibrium derivation, welfare analysis, comparative statics.
 
 - Varian, Hal R. “How to Build an Economic Model in Your Spare Time.” Anmerican Economist 41, no. 2 (1997): 3–10.
@@ -80,15 +87,17 @@ Additional reading:
 - Gibbons, R. (1997). An Introduction to Applicable Game Theory. Journal of Economic Perspectives, 11(1), 127–149.
 
 
-## Mar 18 - Signaling, Adverse Selection, and Information Disclosure
+## Mar 18 - [Signaling, Adverse Selection, and Information Disclosure](https://canvas.umn.edu/courses/544805/files/59757062?download?download_frd=1)
 
 **Topic**: Digital Advertising, Distribution Channel
+
 **Method focus**: Signaling, screening, adverse selection, Bayesian updating
 
 - Balocco, Francesco, Yixin Lu, Ting Li, and Alok Gupta. “Lemon Ads: Adverse Selection in Multi-Channel Display Advertising Markets.” Management Science, ahead of print, 2025. https://doi.org/10.2139/ssrn.4971366.
-- Chen, Min, Subodha Kumar, and Abhishek Ray. “An Economic Analysis of Online Ad Fraud Deterrence.” Management Science, February 6, 2026, mnsc.2022.02201. https://doi.org/10.1287/mnsc.2022.02201.
+- Burtch, Gordon, Yili Hong, and De Liu. “The Role of Provision Points in Online Crowdfunding.” Journal of Management Information Systems 35, no. 1 (2018): 117–44. https://doi.org/10.1080/07421222.2018.1440764.
 - Hao, Lin, and Yong Tan. “Who Wants Consumers to Be Informed? Facilitating Information Disclosure in a Distribution Channel.” Information Systems Research 30, no. 1 (2019): 34–49. https://doi.org/10.1287/isre.2017.0770.
 
+<!-- - Chen, Min, Subodha Kumar, and Abhishek Ray. “An Economic Analysis of Online Ad Fraud Deterrence.” Management Science, February 6, 2026, mnsc.2022.02201. https://doi.org/10.1287/mnsc.2022.02201. -->
 
 ## Mar 25 - Two-Sided Platforms & Network Effects
 
