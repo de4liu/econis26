@@ -34,7 +34,7 @@ Spring 2026, Prof De Liu
 - Chen, Yanzhen, Huaxia Rui, and Andrew. B. Whinston. “Tweet to the Top? Social Media Personal Branding and Career Outcomes.” MIS Quarterly 45, no. 2 (2021): 499–534. - https://doi.org/10.25300/MISQ/2021/14617.
 
 
-## Feb 11 - Live Streaming & Creator Economy
+## Feb 11 - [Live Streaming & Creator Economy](https://canvas.umn.edu/courses/544805/files/59326732?wrap=1)
 
 **Topic**: Real-time interaction, motivation, creative economy ecosystem
 **Method focus**: Field experiments
@@ -44,9 +44,55 @@ Spring 2026, Prof De Liu
 - Wang, Lingli, Ni Huang, Yumei He, et al. “Artificial Intelligence (AI) Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform.” Information Systems Research 36, no. 4 (2025): 2358–74. https://doi.org/10.1287/isre.2023.0103.
 
 
-## Feb 18 - Digital Platforms & Innovation in Ecosystems
+## Feb 18 - Economics of Online Labor Markets
+**Topic**: Contracting, Information Asymmetry, Moral Hazard, Incentive Alignment, and Market Design on Platforms
+**Method focus**: DiD, panel data identification, empirical contract theory
 
-Topic: Complementors, governance, data access
+- Gu, Grace, and Feng Zhu. “Trust and Disintermediation: Evidence from an Online Freelance Marketplace.” Management Science 67, no. 2 (2021): 794–807. https://doi.org/10.1287/mnsc.2020.3583.
+- Kim, Keongtae, and Siva Viswanathan. “The Experts in the Crowd: The Role of Experienced Investors in a Crowdfunding Market.” MIS Quarterly 43, no. 2 (2019): 347–72. https://doi.org/10.25300/MISQ/2019/13758.
+- Liu, Meng, Erik Brynjolfsson, and Jason Dowlatabadi. “Do Digital Platforms Reduce Moral Hazard? The Case of Uber and Taxis.” Management Science 67, no. 8 (2021): 4665–85. https://doi.org/10.1287/mnsc.2020.3721.
+
+<!-- Two-Sided Platform Competition in a Sharing Economy
+Zhang, Chen, Raghunathan (2022), Management Science
+Game-theoretic model of wage schemes and price competition  -->
+
+## Feb 25 - AI–Human Complementarity
+
+**Topic**: AI, Task-Based Production, and Organizational Design, Economics of Human–Machine Production
+**Method focus**: Theory, experiments, and conceptual framing.
+
+- Daron Acemoglu and Pascual Restrepo. “Artificial Intelligence,  Automation, and Work.” In The Economics of Artificial Intelligence: An Agenda. University of Chicago Press, 2019.
+- Fügener, Andreas, Jörn Grahl, Alok Gupta, and Wolfgang Ketter. “Will Humans-in-the-Loop Become Borgs? Merits and Pitfalls of Working with AI.” MIS Quarterly 45, no. 3 (2021): 1527–56. https://doi.org/10.25300/MISQ/2021/16553.
+- Berente, Nicholas, Bin Gu, Jan Recker, and Radhika Santhanam. “Managing Artificial Intelligence.” MIS Quarterly 45, no. 3 (2021): 1433–50. https://doi.org/10.25300/MISQ/2021/16274.
+
+
+## Mar 4 - Introduction to Analytics Modeling in IS
+
+**Topic**: pricing, modeling digital goods, information asymmetry
+**Method focus**: static games, equilibrium derivation, welfare analysis, comparative statics.
+
+- Varian, Hal R. “How to Build an Economic Model in Your Spare Time.” Anmerican Economist 41, no. 2 (1997): 3–10.
+- Guo, Zhiling, and Dan Ma. “A Model of Competition Between Perpetual Software and Software as a Service.” MIS Quarterly 42, no. 1 (2018): 101–20. https://doi.org/10.25300/MISQ/2018/13640.
+- Guo, Hong, Xuying Zhao, Lin Hao, and De Liu. "Economic Analysis of Reward Advertising." Production and Operations Management 28, no. 10 (2019): 2413–30. 
+
+Additional reading:
+
+- Gibbons, R. (1997). An Introduction to Applicable Game Theory. Journal of Economic Perspectives, 11(1), 127–149.
+
+
+## Mar 18 - Signaling, Adverse Selection, and Information Disclosure
+
+**Topic**: Digital Advertising, Distribution Channel
+**Method focus**: Signaling, screening, adverse selection, Bayesian updating
+
+- Balocco, Francesco, Yixin Lu, Ting Li, and Alok Gupta. “Lemon Ads: Adverse Selection in Multi-Channel Display Advertising Markets.” Management Science, ahead of print, 2025. https://doi.org/10.2139/ssrn.4971366.
+- Chen, Min, Subodha Kumar, and Abhishek Ray. “An Economic Analysis of Online Ad Fraud Deterrence.” Management Science, February 6, 2026, mnsc.2022.02201. https://doi.org/10.1287/mnsc.2022.02201.
+- Hao, Lin, and Yong Tan. “Who Wants Consumers to Be Informed? Facilitating Information Disclosure in a Distribution Channel.” Information Systems Research 30, no. 1 (2019): 34–49. https://doi.org/10.1287/isre.2017.0770.
+
+
+## Mar 25 - Two-Sided Platforms & Network Effects
+
+<!-- Topic: Complementors, governance, data access
 Method focus: DiD, natural experiments, panel identification
 Required
 
@@ -56,7 +102,7 @@ Li, Agarwal & Goldfarb (2021), ISR
 Platform data policies and innovation
 Boudreau & Jeppesen (2022), MISQ
 Ecosystem governance and innovation outcomes
-Why here: Strongly IS-native, newer, and central to platform economics. -->
+Why here: Strongly IS-native, newer, and central to platform economics. --> -->
 
 <!-- 
 ## Feb 08 [Sharing and Git Economy](https://canvas.umn.edu/courses/423723/files/41433355/download?download_frd=1)
@@ -73,7 +119,7 @@ Why here: Strongly IS-native, newer, and central to platform economics. -->
 - Gordon Burtch, Seth Carnahan, and Brad N. Greenwood (2018). Can You Gig It? An Empirical Examination of the Gig Economy and Entrepreneurial Activity, Management Science, 64:12, 5497-5520.
 - Zhang, Shunyuan, Dokyun Lee, Param Singh, and Kannan Srinivasan (2022). "What Makes a Good Image? Airbnb Demand Analytics Leveraging Interpretable Image Features. Management Science, 68:8, 5557-6354. -->
 
-## Feb 25 - Platform Market Design & Pricing
+<!-- ## Feb 25 - Platform Market Design & Pricing -->
 
 <!-- ## Feb 15 [Analytical Modeling - Intro to Game Theory and Information Economics](https://canvas.umn.edu/courses/423723/files/41434444/download?download_frd=1)
 
@@ -96,7 +142,7 @@ and an opportunity to learn some important economic theories.
 
 
 
-## Mar 4 - Data Privacy Economics of Data Markets
+<!-- ## Mar 4 - Data Privacy Economics of Data Markets -->
 <!-- 
 Data Privacy Economics & Data Markets
 Topic: Privacy, data ownership, regulation
@@ -128,7 +174,7 @@ In this section, we read some examples of how game theory analysis can be used t
 - Xu, K., Chan, J., Ghose, A., & Han, S. P. (2017). Battle of the Channels: The Impact of Tablets on Digital Commerce. Management Science, 63(5), 1469–1492. https://doi.org/10.1287/mnsc.2015.2406. **[Matching]**
 - Farronato, C. (2020). Innovation at Uber: The Launch of Express POOL. Harvard Business Case. **[Field Experiment]** -->
 
-## Mar 18 - Platform Regulation, Governance & Welfare
+## April 1 - Strategic Participation, Matching & Platform Design
 
 <!-- Topic: Antitrust, self-preferencing, welfare tradeoffs
 Method focus: IO models + structural approaches
@@ -154,7 +200,7 @@ Why here: Explicitly normative and policy-oriented, building on earlier theory. 
 
 - Heckman, James J, and Rodrigo Pinto. “Econometric Causality: The Central Role of Thought Experiments,” 2023. **[Causality Methods Latest Survey]**  -->
 
-## Mar 25 - Generative AI & Economic Outcomes
+## 
 <!-- Topic: LLMs, productivity, creative work
 Method focus: Platform experiments + causal inference
 Required
@@ -182,7 +228,6 @@ Since you have read many AI-themed papers in the Prof Ray's seminar, we will red
 - Fügener, Andreas, Jörn Grahl, Alok Gupta, and Wolfgang Ketter. “Will Humans-in-the-Loop Become Borgs? Merits and Pitfalls of Working with AI.” MIS Quarterly 45, no. 3 (September 1, 2021): 1527–56. https://doi.org/10.25300/MISQ/2021/16553.
 - Fügener, Andreas, Jörn Grahl, Alok Gupta, and Wolfgang Ketter. “Cognitive Challenges in Human–Artificial Intelligence Collaboration: Investigating the Path Toward Productive Delegation.” Information Systems Research 33, no. 2 (June 2022): 678–96. https://doi.org/10.1287/isre.2021.1079. -->
 
-## April 1 - Dark Side of IT & Fake News
 <!-- Topic: Addiction, misinformation, democratic welfare
 Method focus: Behavioral modeling + experiments
 Required
@@ -202,7 +247,8 @@ Presentation format & misinformation -->
 - Pennycook, Gordon, et al. "The implied truth effect: Attaching warnings to a subset of fake news headlines increases perceived accuracy of headlines without warnings." Management Science 66.11 (2020): 4944-4957.
 - Chen, S., Xiao, L., & Kumar, A. (2023). Spread of misinformation on social media: What contributes to it and how to combat it. Computers in Human Behavior, 141, 107643. https://doi.org/10.1016/j.chb.2022.107643 -->
 
-## April 8 - Recommender Systems & Market Design
+## April 8 - Data Ownership, Data Intermediaries & Data Sharing Markets
+
 <!-- Topic: Discovery, learning, allocation of attention
 Method focus: Bayesian persuasion, mechanism design
 Required
@@ -263,7 +309,9 @@ For the paper you are assigned please have at least 1 slide for each of the foll
 - Bapna, Sofia, and Gordon Burtch. “An Experimental Evaluation of Gender Differences in Responses to Major-Donor Funding Schemes for Crowdfunded Social Ventures,” n.d.
 - Anonymous. “Does Religious Expression Undermine Crowdfunded Microfinance Success? A Role Congruity Theory Perspective.” Manuscript, n.d. -->
 
-## April 15 - Gamification and Behavioral Economics
+## April 15 - Economics of the Darkside of IT
+
+<!-- -- Gamification and Behavioral Economics -->
 <!-- 
 We will assign fewer papers in this session, but I'd like you to study/present past econ of IS exams & learn from them. We will discuss how to allocate the papers and past problems in class.
 
