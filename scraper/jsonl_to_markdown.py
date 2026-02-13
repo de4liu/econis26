@@ -57,7 +57,7 @@ def article_to_markdown(record: dict) -> str:
 
 
 # Department phrase at end of abstract in Management Science (IS department only)
-MANAGEMENT_SCIENCE_IS_PHRASE = ", information systems"
+MANAGEMENT_SCIENCE_IS_PHRASE = ", business strategy"
 
 
 def is_management_science_is_article(record: dict) -> bool:
